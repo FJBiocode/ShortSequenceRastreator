@@ -1,5 +1,6 @@
 # ShortSequenceRastreator
-Hello! This is Francisco Javier Bielsa (Graduated in Biotechnology and Master in Molecular and Cell Biology. University of Zaragoza). I hope my work helps yours and your SSR studies. 
+Developed by Francisco Javier Bielsa (Graduated in Biotechnology and Master in Molecular and Cell Biology. University of Zaragoza). 
+Greetings! I hope my work helps yours and your SSR studies. 
 This code was made during the development of my Master's Thesis and was tested with Genomic Data from Pyrus Communis L. held at CITA of Aragón Germplasm bank. 
 
 ShortSequenceRastreator allows Genetic diversisity analysis and input file preparation for STRUCTURE 2.3.4 (Stanford), DARwin 6.0 (CIRAD) and SPAGeDi (Iowa State Uiversity).
