@@ -37,7 +37,7 @@ DISCRIMINANT POWER
 
 OBSERVED AND EXPECTED HETEROZYGOSITY
 
-F-STAT AND NULE ALELES (Yet to be completed)
+F-STAT AND NULE ALELES 
 
 DUPLICATE IDENTIFICATION : Get a dataframe with your duplicates! WARNING: In 'col[6:(len(new_df.columns))]' number 6 need to be checked and replaced 
 with the last position of information columns that you have in your dataframe.
