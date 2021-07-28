@@ -42,6 +42,8 @@ F-STAT AND NULE ALELES
 DUPLICATE IDENTIFICATION : Get a dataframe with your duplicates! WARNING: In 'col[6:(len(new_df.columns))]' number 6 need to be checked and replaced 
 with the last position of information columns that you have in your dataframe.
 
+TRIALLIC LOCI SEARCH
+
 CRETION OF STRUCTURE INPUT FILE: Enjoy saving 2 hours of excel work! WARNING: Insert file path of your unique genotypes matrix. Change Information columns in '{'Ord', 'Nclon', 'AccessionName', 'Origin', 'Ploidy'}' and St = Stru.drop(['Ord', 'Nclon', 'Origin', 'Ploidy'], axis = 1).
 
 
